@@ -1,6 +1,6 @@
 # 🖼️ Yüz Benzerlik Karşılaştırma Uygulaması
 
-![Face Similarity App](https://face-similarity-furkansukan.streamlit.app/)
+![image](https://github.com/user-attachments/assets/f5723c74-d83c-4a36-a9b6-958a2f0ac7b3))
 
 ## 📖 Proje Hakkında
 
